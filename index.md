@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
 <h1 style="background-color:DodgerBlue;">My Profile</h1>
 
 <h2 Personal Information</h2>
