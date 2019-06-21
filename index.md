@@ -1,5 +1,6 @@
 <h1 style="color:blue;font-family:algerian">My Profile</h1>
 
+<img src="Me.jpg" alt="Photo of girl">
 
 <p>
 Name: Jade Gower
