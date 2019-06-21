@@ -1,4 +1,4 @@
-<h1 style="color:blue;font-family:algerian">My Profile</h1>
+<h1 style="color:white;">My Profile</h1>
 
 <img src="My selfie.jpg" alt="Selfie"> 
 
@@ -60,7 +60,7 @@ I would try and gain employment in an IT specific workplace to help gain experie
 Looking at these results it shows that while I am quiet and reserved, I use logic and rational thinking when making decisions.
 When forming a group, I do need to look for an assertive leader. Someone who is more extroverted and can fill that role. If I can’t, I need to step up and be the one to take the leadership role.
 
-<h1 style="color:blue;">Project Idea</h1>
+<h1 style="color:white;">Project Idea</h1>
 
 <h2 style="color:blue;">Overview-</h2>
 <p>
