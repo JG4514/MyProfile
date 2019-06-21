@@ -1,6 +1,5 @@
 <h1 style="background-color:DodgerBlue;">My Profile</h1>
 
-<h2 Personal Information</h2>
 <p>
 Name: Jade Gower
 <p>
