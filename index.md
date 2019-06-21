@@ -1,4 +1,4 @@
-<h1 style="color:blue;">My Profile</h1> <h1 style="font-family:verdana;">My Profile</h1>
+<h1 style="color:blue;font-family:algerian">My Profile</h1>
 
 
 <p>
