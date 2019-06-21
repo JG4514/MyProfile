@@ -36,3 +36,34 @@ The job entails you to have experience with security documents, knowledge of PSP
 You would be required to help improve the organisations overall security for a team of technical staff to implement the new policies.
 I currently do not have the entry requirements for this job but if I were to go for it, I would look at completing my Bachelor of IT, also gain certification in CISA at a minimum.
 I would try and gain employment in an IT specific workplace to help gain experience in the IT sector. 
+
+<h2 style="color:blue;">Personal profile</h2>
+<p>
+Looking at these results it shows that while I am quiet and reserved, I use logic and rational thinking when making decisions.
+When forming a group, I do need to look for an assertive leader. Someone who is more extroverted and can fill that role. If I can’t, I need to step up and be the one to take the leadership role.
+
+<h1 style="color:blue;">Project Idea</h1>
+
+<h2 style="color:blue;">Overview-</h2>
+<p>
+My idea is to build a wireless hub and link our phones, link a key fob, or anything you can attach a wireless chip to, so when we need to find our device, we can hit the corresponding button and it’ll beep. We’re forever losing our devices and such, and here is the answer to finding them.
+
+<h2 style="color:blue;">Motivation-</h2>
+<p>
+According to a 2017 study based on 2005 subjects by Finder.com.au, it showed that 6% of the subjects lost their phones in the previous 5yrs.
+On average, there are 1370 smartphones being lost or destroyed by Australians every day, which are being replaced at a tune of $755 million. 
+A 2017 study conducted by Bluetooth tracker company Tile, shows that lost items have cost Australians $1.2Billion in the previous year alone.
+
+<h2 style="color:blue;">Description</h2>
+<p>
+A small security chip can be stuck to the back of your phone. A key fob with the chip inside that can be attached to your keyring.
+You can find your item through a small device that can be hung on the wall or sat on a bench where you can talk to it. 
+The hub would only need to be 10 x 8 (or bigger sizes can be made if need be) The hub can be run on batteries or plugged in with a charging cord. 
+The hub can be woken up by pressing the on/off button then clicking one of the previously synced buttons to find your specific item. 
+
+<h2 style="color:blue;">Outcome</h2>
+<p>
+If this project were successful, the outcome would be beneficial to a lot of people. 
+We live busy lives and while we’re busy, we lose important things. By using this tracker, we can cut down on the lost time that we spend looking for them. 
+As long as the hub remains in the one place, connected to a charging source, there would be no need to worry about not finding lost items. 
+
