@@ -31,8 +31,7 @@ I hope to broaden my IT knowledge by stepping out of my comfort zone and diving 
 <h2>IT Security Advisor</h2>
 
 <p>
-<a href="url">https://www.seek.com.au/job/39220732?type=standout&searchrequesttoken=cab2d589-b2d2-481c-bc46-63e108c7e34a
-</a>
+<a href="https://www.seek.com.au/job/39220732?type=standout&searchrequesttoken=cab2d589-b2d2-481c-bc46-63e108c7e34a">Seek.com.au</a>
   
 <img src="Info Tech1.jpg" alt="screenshot1"> <img src="Info Tech2.jpg" alt="screenshot2"> 
 
