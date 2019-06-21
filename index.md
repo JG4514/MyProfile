@@ -11,7 +11,7 @@ Student #:123456789
 <p>
 <h2 style="color:blue;">Background</h2>
 <p>
-My name is Jade, and I have a keen interest in IT, specifically in security. 
+My name is Jade, I am 32 and I have a keen interest in IT, specifically in security. 
 <p>
 I grew up in a time where computers and the internet were only just getting off the ground. It was in my teens that I developed a love for the internet and all its components. 
 I completed my year 10 school certificate in 2000 and recently completed Cert II in IT at my local Tafe.
