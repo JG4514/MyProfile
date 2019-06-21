@@ -6,7 +6,7 @@ Name: Jade Gower
 Email: IloveIT@hotmail.com
 <p>
 Student #:123456789
-<p>
+
 <h2>Background:<h2>
 <p>
 My name is Jade, and I have a keen interest in IT, specifically in security. 
