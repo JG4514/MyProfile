@@ -1,6 +1,6 @@
 <h1 style="color:blue;font-family:algerian">My Profile</h1>
 
-<img src="My selfie.jpg" alt="Selfie">
+<img src="My selfie.jpg" alt="Selfie"> 
 
 <p>
 Name: Jade Gower
@@ -33,6 +33,9 @@ I hope to broaden my IT knowledge by stepping out of my comfort zone and diving 
 <p>
 <a href="url">https://www.seek.com.au/job/39220732?type=standout&searchrequesttoken=cab2d589-b2d2-481c-bc46-63e108c7e34a
 </a>
+<img src="Information Tech.JPG" alt="screenshot1"> <img src="IT2.JPG" alt="screenshot2"> 
+
+
 <p>
 This is an advertisement for an IT security advisor in ACT.
 The job entails you to have experience with security documents, knowledge of PSPF and knowledge of ISM with certification being beneficial in one of the following-CISSP, CISM or CISA.
