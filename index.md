@@ -7,7 +7,7 @@ Email: IloveIT@hotmail.com
 <p>
 Student #:123456789
 <p>
-<h2 style=color:blue;">Background</h2>
+<h2 style="color:blue;">Background</h2>
 <p>
 My name is Jade, and I have a keen interest in IT, specifically in security. 
 <p>
@@ -17,7 +17,7 @@ I completed my year 10 school certificate in 2000 and recently completed Cert II
 <p>
 I have grown to enjoy baking and decorating cakes as a hobby for my family. Their requests for birthday cakes have gotten more extravagant as the years pass!
 
-<h2> Interests in IT</h2>
+<h2 style="color:blue;">Interests in IT</h2>
 </p>
 It was only in recent years that I discovered that I had a knack for computers/IT. At the same time, I found that I enjoyed finding faults in tech gadgets and in online games. 
 <p>
