@@ -33,7 +33,7 @@ I hope to broaden my IT knowledge by stepping out of my comfort zone and diving 
 <p>
 <a href="url">https://www.seek.com.au/job/39220732?type=standout&searchrequesttoken=cab2d589-b2d2-481c-bc46-63e108c7e34a
 </a>
-<img src="Information Tech.JPG" alt="screenshot1"> <img src="IT2.JPG" alt="screenshot2"> 
+<img src="Info Tech1.jpg" alt="screenshot1"> <img src="Info Tech2.jpg" alt="screenshot2"> 
 
 
 <p>
@@ -45,6 +45,8 @@ I currently do not have the entry requirements for this job but if I were to go 
 I would try and gain employment in an IT specific workplace to help gain experience in the IT sector. 
 
 <h2 style="color:blue;">Personal profile</h2>
+
+
 <p>
 Looking at these results it shows that while I am quiet and reserved, I use logic and rational thinking when making decisions.
 When forming a group, I do need to look for an assertive leader. Someone who is more extroverted and can fill that role. If I can’t, I need to step up and be the one to take the leadership role.
