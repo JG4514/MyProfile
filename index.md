@@ -12,6 +12,7 @@ Student #:123456789
 <h2 style="color:blue;">Background</h2>
 <p>
 My name is Jade, and I have a keen interest in IT, specifically in security. 
+<p>
 I grew up in a time where computers and the internet were only just getting off the ground. It was in my teens that I developed a love for the internet and all its components. 
 I completed my year 10 school certificate in 2000 and recently completed Cert II in IT at my local Tafe.
 I have grown to enjoy baking and decorating cakes as a hobby for my family. Their requests for birthday cakes have gotten more extravagant as the years pass!
@@ -30,7 +31,8 @@ I hope to broaden my IT knowledge by stepping out of my comfort zone and diving 
 <h2>IT Security Advisor</h2>
 
 <p>
-https://www.seek.com.au/job/39220732?type=standout&searchrequesttoken=cab2d589-b2d2-481c-bc46-63e108c7e34a
+<a href="url">https://www.seek.com.au/job/39220732?type=standout&searchrequesttoken=cab2d589-b2d2-481c-bc46-63e108c7e34a
+</a>
 <p>
 This is an advertisement for an IT security advisor in ACT.
 The job entails you to have experience with security documents, knowledge of PSPF and knowledge of ISM with certification being beneficial in one of the following-CISSP, CISM or CISA.
