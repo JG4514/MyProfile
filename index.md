@@ -29,9 +29,10 @@ I hope to broaden my IT knowledge by stepping out of my comfort zone and diving 
 <h2>IT Security Advisor<h2>
 <p>
 https://www.seek.com.au/job/39220732?type=standout&searchrequesttoken=cab2d589-b2d2-481c-bc46-63e108c7e34a
-
+<p>
 This is an advertisement for an IT security advisor in ACT.
 The job entails you to have experience with security documents, knowledge of PSPF and knowledge of ISM with certification being beneficial in one of the following-CISSP, CISM or CISA.
+<p>
 You would be required to help improve the organisations overall security for a team of technical staff to implement the new policies.
 I currently do not have the entry requirements for this job but if I were to go for it, I would look at completing my Bachelor of IT, also gain certification in CISA at a minimum.
 I would try and gain employment in an IT specific workplace to help gain experience in the IT sector. 
