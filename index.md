@@ -26,7 +26,7 @@ I found RMIT through OUA and I decided to go through them because of their Cyber
 I hope to broaden my IT knowledge by stepping out of my comfort zone and diving into my studies.
 
 <h2 style="color:blue;">Ideal job</h2>
-<h2>IT Security Advisor<h2>
+<h2>IT Security Advisor</h2>
 
 <p>
 https://www.seek.com.au/job/39220732?type=standout&searchrequesttoken=cab2d589-b2d2-481c-bc46-63e108c7e34a
