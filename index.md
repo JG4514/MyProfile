@@ -47,6 +47,7 @@ I would try and gain employment in an IT specific workplace to help gain experie
 <h2 style="color:blue;">Personal profile</h2>
 <img src="16personalities.JPG" alt="screenshot3"> <img src="bigfive1.JPG" alt="screenshot4"> <img src="bigfive2.JPG" alt="screenshot4"> 
 <a href="url">https://www.16personalities.com/</a>
+
 <a href="url">https://www.truity.com/test/big-five-personality-test</a>
 
 
