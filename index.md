@@ -29,6 +29,7 @@ I hope to broaden my IT knowledge by stepping out of my comfort zone and diving 
 <h2>IT Security Advisor<h2>
 <p>
 https://www.seek.com.au/job/39220732?type=standout&searchrequesttoken=cab2d589-b2d2-481c-bc46-63e108c7e34a
+
 <p>
 This is an advertisement for an IT security advisor in ACT.
 The job entails you to have experience with security documents, knowledge of PSPF and knowledge of ISM with certification being beneficial in one of the following-CISSP, CISM or CISA.
