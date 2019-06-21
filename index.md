@@ -1,6 +1,6 @@
 <h1 style="color:blue;font-family:algerian">My Profile</h1>
 
-<img src="Me.JPG" alt="Selfie">
+<img src="My selfie.jpg" alt="Selfie">
 
 <p>
 Name: Jade Gower
