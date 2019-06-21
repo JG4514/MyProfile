@@ -66,9 +66,9 @@ My idea is to build a wireless hub and link our phones, link a key fob, or anyth
 
 <h2 style="color:blue;">Motivation-</h2>
 <p>
-According to a 2017 study based on 2005 subjects by Finder.com.au, it showed that 6% of the subjects lost their phones in the previous 5yrs.
+According to a 2017 study based on 2005 subjects by <a href="https://www.finder.com.au/press-release-australians-have-blown-755-million-on-replacements">Finder.com.au</a>, it showed that 6% of the subjects lost their phones in the previous 5yrs.
 On average, there are 1370 smartphones being lost or destroyed by Australians every day, which are being replaced at a tune of $755 million. 
-A 2017 study conducted by Bluetooth tracker company Tile, shows that lost items have cost Australians $1.2Billion in the previous year alone.
+A 2017 study conducted by Bluetooth tracker company <a href="https://www.techly.com.au/2017/11/29/time-money-study-reveals-australians-lose-stuff-lot-costs-tonnes/">Tile</a>, shows that lost items have cost Australians $1.2Billion in the previous year alone.
 
 <h2 style="color:blue;">Description</h2>
 <p>
