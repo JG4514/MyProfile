@@ -33,6 +33,7 @@ I hope to broaden my IT knowledge by stepping out of my comfort zone and diving 
 <p>
 <a href="url">https://www.seek.com.au/job/39220732?type=standout&searchrequesttoken=cab2d589-b2d2-481c-bc46-63e108c7e34a
 </a>
+  
 <img src="Info Tech1.jpg" alt="screenshot1"> <img src="Info Tech2.jpg" alt="screenshot2"> 
 
 
@@ -46,6 +47,7 @@ I would try and gain employment in an IT specific workplace to help gain experie
 
 <h2 style="color:blue;">Personal profile</h2>
 <img src="16personalities.JPG" alt="screenshot3"> <img src="bigfive1.JPG" alt="screenshot4"> <img src="bigfive2.JPG" alt="screenshot4"> 
+
 <a href="url">https://www.16personalities.com/</a>
 
 <a href="url">https://www.truity.com/test/big-five-personality-test</a>
